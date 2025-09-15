@@ -1,2 +1,2 @@
 course://web.backend?name=%22Khinotska%20Sophia%22&group=%22FEI-22%22&subgroup=%22Subgroup%202%22#KhinotskaSophia
-https://bank.gov.ua/NBU_Exchange/external/OpenData/Reserves?json&date=202202
+https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=202202&json
